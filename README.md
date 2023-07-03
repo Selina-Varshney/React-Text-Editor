@@ -1,5 +1,5 @@
 <h1>Texty - Text Editor</h1>
-<h3> A very basic text editor created using the basics of react</h3>
+<h3> A very simple text editor created using the basics of react</h3>
 
 <img width="944" alt="Screenshot 2023-07-03 221006" src="https://github.com/Selina-Varshney/Texty/assets/99686864/acbf59a0-32bc-4b71-b3ac-235689674407">
 
